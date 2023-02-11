@@ -1,0 +1,22 @@
+{
+  "name": "mqtt_swift_tutorial",
+  "version": "1.0.1",
+  "description": "This is a simple project just to demonstrate the MQTT broker",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mqtt",
+    "nodejs",
+    "swiftui",
+    "swift",
+    "iot",
+    "homeautomation"
+  ],
+  "author": "Tanmoy Khanra",
+  "license": "ISC",
+  "dependencies": {
+    "aedes": "^0.48.1"
+  }
+}
